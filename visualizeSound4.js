@@ -7,7 +7,7 @@ var x2,y2,r2,i2=0
 var rate=2
 
 function preload(){
-    song = loadSound('../MUSIC/this_dot.mp3')
+    song = loadSound('Cradles.mp3')
 }
 
 function setup(){
