@@ -4,7 +4,7 @@ var songhist = []
 var amp
 var x,y,r,i=0
 var x2,y2,r2,i2=0
-var rate=2
+var rate=1
 
 function preload(){
     song = loadSound('Cradles.mp3')
